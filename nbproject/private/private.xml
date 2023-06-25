@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/AplicativoCompletoProdutos%20Gabriel%20Ulick%20Dalla%20Bernardina/src/windows/JanelaPrincipalProduto.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/AplicativoCompletoProdutos%20Gabriel%20Ulick%20Dalla%20Bernardina/src/dao/ProdutoFileInformation.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/AplicativoCompletoProdutos%20Gabriel%20Ulick%20Dalla%20Bernardina/src/dao/ProdutoFileDao.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/AplicativoCompletoProdutos%20Gabriel%20Ulick%20Dalla%20Bernardina/src/domain/ComparatorProdutoPorNomeCrescente.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/AplicativoCompletoProdutos%20Gabriel%20Ulick%20Dalla%20Bernardina/src/domain/ComparatorProdutoPorDataCrescente.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/AplicativoCompletoProdutos%20Gabriel%20Ulick%20Dalla%20Bernardina/src/domain/ComparatorProdutoPorCodigoDecrescente.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/AplicativoCompletoProdutos%20Gabriel%20Ulick%20Dalla%20Bernardina/src/control/ControladoraPrincipal.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/AplicativoCompletoProdutos%20Gabriel%20Ulick%20Dalla%20Bernardina/src/domain/Produto.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/AplicativoCompletoProdutos%20Gabriel%20Ulick%20Dalla%20Bernardina/src/domain/ComparatorProdutoPorPrecoCrescente.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/AplicativoCompletoProdutos%20Gabriel%20Ulick%20Dalla%20Bernardina/src/domain/ComparatorProdutoPorCodigoCrescente.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/AplicativoCompletoProdutos%20Gabriel%20Ulick%20Dalla%20Bernardina/src/control/ControladoraProdutos.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/AplicativoCompletoProdutos%20Gabriel%20Ulick%20Dalla%20Bernardina/src/windows/JanelaVisualizarProduto.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/AplicativoCompletoProdutos%20Gabriel%20Ulick%20Dalla%20Bernardina/src/domain/ComparatorProdutoPorDataDecrescente.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/AplicativoCompletoProdutos%20Gabriel%20Ulick%20Dalla%20Bernardina/src/domain/ComparatorProdutoPorPrecoDecrescente.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/AplicativoCompletoProdutos%20Gabriel%20Ulick%20Dalla%20Bernardina/src/domain/ComparatorProdutoPorNomeDecrescente.java</file>
+        </group>
+    </open-files>
+</project-private>
